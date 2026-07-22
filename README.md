@@ -2,6 +2,9 @@
 
 An intelligent attendance management system using Python Flask backend with face recognition capabilities and a modern responsive web frontend.
 
+##Dashboard
+![image alt](
+
 ## ✨ Features
 
 - 👤 **User Registration** - Register students with name, email, and student ID
