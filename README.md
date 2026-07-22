@@ -2,8 +2,8 @@
 
 An intelligent attendance management system using Python Flask backend with face recognition capabilities and a modern responsive web frontend.
 
-##Dashboard
-![image alt](
+## Dashboard
+![image alt](https://github.com/ro61nn/Smart-attendence-system-/blob/ba7ba07c01e5cb9c9fadcc1f013f9a556a1b298b/IMG_20260722_100647.jpg)
 
 ## ✨ Features
 
