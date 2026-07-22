@@ -5,6 +5,9 @@ An intelligent attendance management system using Python Flask backend with face
 ## Dashboard
 ![image alt](https://github.com/ro61nn/Smart-attendence-system-/blob/ba7ba07c01e5cb9c9fadcc1f013f9a556a1b298b/IMG_20260722_100647.jpg)
 
+## Registration 
+![image alt](https://github.com/ro61nn/Smart-attendence-system-/blob/641830f52c03c5731ffc5a9a9dc585e6719fc9c8/IMG_20260722_100629.jpg)
+
 ## ✨ Features
 
 - 👤 **User Registration** - Register students with name, email, and student ID
